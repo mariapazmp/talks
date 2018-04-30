@@ -9,4 +9,4 @@ Spanish and English.
 
 ### Time Management and Time Estimates
 
-- [Time-Management.pdf](https://URL.pdf) **[Spanish]** Practical guides taken from my experience as front-end developer, UI designer and Project Leader. *[PionerasDev](http://pionerasdev.co/) 
+- [Time Management and Estimates.pdf](https://github.com/mariapazz/talks/blob/master/Estimaciones_Tiempo_Costo_PIONERASDEV.pdf) **[Spanish]** Practical guides taken from my experience as front-end developer, UI designer and Project Leader. *[PionerasDev](http://pionerasdev.co/) 
