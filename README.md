@@ -1,5 +1,5 @@
 # Talks & Material
-As you may know, being part of talk a is an enrichment experience that drives you into a two way learning moment, and also, it's a great opportunity to share something that you already know, or some area where you have the basis, but you want to go deep on it. 
+As you may know, make a talk is an enrichment experience that drives you into a two way learning moment, and also, it's a great opportunity to share something that you already know, or go deep into some area where you already have the basis.
 
 *When you teach, you learn twice.*
 
