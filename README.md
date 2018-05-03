@@ -17,4 +17,4 @@ Spanish and English.
 
 ### Community Talks
 
-- [Code Party Role Model Talk.pdf](https://github.com/mariapazz/talks/blob/master/Code_Party_Joint_Developer.pdf) **[Spanish]** This kind of talk was made in the framework of the Epic Queen's Code Party Talks, where if you are the role model of the Code Party, you talk to the little girls about your life, hobbies and experience in STEM. *[Joint Developer] (www.jointdeveloper.com/) 
+- [Code Party Role Model Talk.pdf](https://github.com/mariapazz/talks/blob/master/Code_Party_Joint_Developer.pdf) **[Spanish]** This kind of talk was made in the framework of the Epic Queen's Code Party Talks, where if you are the role model of the Code Party, you talk to the little girls about your life, hobbies and experience in STEM. *[Joint Developer](www.jointdeveloper.com/) 
