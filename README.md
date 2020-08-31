@@ -6,6 +6,10 @@ As you may know, make a talk is an enrichment experience that drives you into a 
 Here you can find the slides and complement material of my tech talks. 
 Spanish and English.
 
+### Technical Talks
+- [Stacking Context in CSS](https://github.com/mariapazmp/talks/blob/master/Stacking%20context%20in%20CSS%20-%20Medell%C3%ADnCSS%20meetup.pdf) **[English]** Technical talk about Stacking context, one of the most complex topics of CSS: when it happens, what causes and how to properly understand it.
+
+- [Mobile First Accessibility](https://github.com/mariapazmp/talks/blob/master/Accesibilidad%20con%20CSS%20para%20proyectos%20%E2%80%9Cmobile%20first%E2%80%9D.pdf) **[Spanish]** Technical talk about how to implement Accessibility on Mobile First projects, which guidlines should we use and some general context of the great importance Accesibility should have.
 
 ### Project Management
 
